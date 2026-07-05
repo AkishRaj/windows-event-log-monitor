@@ -132,7 +132,7 @@ Unlike simple counters that reset on a fixed schedule, this tool uses a **slidin
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/windows-event-log-monitor.git
+git clone https://github.com/AkishRaj/windows-event-log-monitor.git
 cd windows-event-log-monitor
 ```
 
